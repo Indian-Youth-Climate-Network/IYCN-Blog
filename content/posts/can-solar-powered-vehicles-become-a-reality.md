@@ -9,19 +9,23 @@ tags:
   - Solar
   - Electric Mobility
 cover_image: /images/uploads/home_lightyear.jpg
-description: In contrast to the previous century where Internal Combustion
-  Engines (ICE) dominated the transport sector, the current age will be focused
-  on electrifying transportation. In order to meet the Sustainable Development
-  Goals (SDGs), the entire transportation sector globally will have to
-  transition to cleaner fuels.
+description: Burning fossil fuels is one of the major contributors of greenhouse
+  gas emissions since about 81% of all emissions are of CO2. Emissions from
+  transportation significantly contribute to the greenhouse accumulation in the
+  atmosphere. Thus, shifting from fossil fuels to less polluting and cleaner
+  sources of energy would reduce the total GHG emissions from the sector.
 ---
 #### Introduction
 
-In contrast to the previous century where Internal Combustion Engines (ICE) dominated the transport sector, the current age will be focused on electrifying transportation. In order to meet the Sustainable Development Goals (SDGs), the entire transportation sector globally will have to transition to cleaner fuels. According to IEA, 24% of the cumulative direct CO2 emissions are from the transportation sector, of which, road transportation alone accounts for about three quarters of transport emissions. As per IEA report of 2009, it is expected that we would see a 53% increase in demand for oil from 2006 to 2030 and if this sector continues to be powered by fossil fuels then, nearly 40% of the total demand will be coming from the transportation sector. Several governments and automobile industries are looking for alternate propulsion systems and one of them is electricity.
+Burning fossil fuels is one of the major contributors of greenhouse gas emissions since about 81% of all emissions are of CO2. Emissions from transportation significantly contribute to the greenhouse accumulation in the atmosphere. Thus, shifting from fossil fuels to less polluting and cleaner sources of energy would reduce the total GHG emissions from the sector. 
 
-Shifting to Electric Vehicles (EVs) can help to reduce our dependence on fossil fuels which is currently the dominant source of energy for transport. It greatly reduces transport emissions in line with countries’ NDC targets. Various case studies that studied the impact of switching to EVs have shown substantial reduction in vehicular emissions. For these reasons, several countries are drawing up policies to provide a channel for EVs in the market. On a macro scale, Switching to EVs reduces a country’s fuel import bills.
+Billions of barrels of oil is used daily to meet energy demand from the transportation sector alone. Oil and gas are a dirty source of energy. If countries are to meet their reduction targets under the Paris Agreement, transportation will need to be cleaned. Recently, oil was traded at negative prices, incentivising countries to fund the development of larger storage facilities. This may be economical in the short run, but even negative oil prices do not reveal its true costs. To understand the true costs of oil, environmental, social, and health externalities and subsidies should be accounted for. 
 
-According to the 2019 Air Quality Index report, 21 out of 30 most polluted cities in the world are located in India. Various studies show that in order for India to meet the target of limiting the global temperature rise to well below 2°C set in the Paris Agreement, it would require to decarbonize the energy sector and electrify its transportation sector. During its lifetime, a vehicle contributes to pollution at different stages- production, usage, disposal, electricity generation and fuel production. The total emission of a vehicle over its lifetime depends on the make of the machine and the engine. Shifting to EVs can greatly reduce the emissions in stage 2, i.e. usage and, if the fuel mix is inclined to renewable energy, stage 5 i.e. electricity generation.
+Shifting transportation to renewables may be the key to unlock not only sustainability but also relieve countries of their economic burden of providing subsidised dirty fuels. 
+
+An alternative to petrol or diesel vehicles is solar powered vehicles. Solar powered cars run entirely on solar energy. There are no Internal Combustion Engines (ICE) or batteries that are charged using grid electricity (from charging stations) in solar cars. Solar powered vehicles sound highly beneficial because solar energy is virtually unlimited and it is a clean alternative  to gas guzzling cars. They are also cost effective since they get abundant energy directly from the sun. The batteries here are solar powered. It can be stored and used later in the night. 
+
+Solar powered cars are currently used only for solar car races where participants are given a chance to explore technologies to build their own solar powered cars with photovoltaic energy.
 
 
 
