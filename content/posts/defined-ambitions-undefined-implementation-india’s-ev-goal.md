@@ -9,13 +9,19 @@ tags:
   - Solar
   - Electric Mobility
 cover_image: /images/uploads/screenshot-2020-07-19-at-6.23.05-am.png
-description: In contrast to the previous century where Internal Combustion
-  Engines (ICE) dominated the transport sector, the current age will be focused
-  on electrifying transportation. In order to meet the Sustainable Development
+description: >-
+  In contrast to the previous century where Internal Combustion Engines (ICE)
+  dominated the transport sector, the current age will be focused on
+  electrifying transportation. In order to meet the Sustainable Development
   Goals (SDGs), the entire transportation sector globally will have to
   transition to cleaner fuels. According to IEA, 24% of the cumulative direct
   CO2 emissions are from the transportation sector, of which, road
   transportation alone accounts for about three quarters of transport emissions.
+
+
+
+
+  **Written By -** Veena G
 ---
 #### Introduction
 
