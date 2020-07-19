@@ -67,9 +67,7 @@ Increase in EVs would mean increased demand for li-ion batteries. According to a
 
 Adding to this, we have not achieved as much as we could have in adopting EVs because of lack of awareness among consumers. All of this makes India’s adoption to EVs a lot slower than was expected.
 
-
-
-#### References 
+#### References
 
 > Department of Heavy Industry, Govt. of India, “National Electric Mobility Mission Plan 2020”, 2013.
 >
