@@ -88,3 +88,7 @@ Adding to this, we have not achieved as much as we could have in adopting EVs be
 > Embarq India, Motorized Two-Wheelers in Indian Cities: A Case Study the city of Pune, 2014.
 >
 > Rachana Vidhi and Peasanna Shrivastava, “A Review of Electric Vehicle Lifecycle Emissions and Policy Recommendations to Increase EV Penetration in India”, 2018.
+
+
+
+**Written By -** Veena G
