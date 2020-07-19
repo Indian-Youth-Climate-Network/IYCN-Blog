@@ -7,6 +7,7 @@ tags:
   - EV
   - SDG
   - Solar
+  - Electric Mobility
 cover_image: /images/uploads/home_lightyear.jpg
 description: In contrast to the previous century where Internal Combustion
   Engines (ICE) dominated the transport sector, the current age will be focused
@@ -24,13 +25,13 @@ According to the 2019 Air Quality Index report, 21 out of 30 most polluted citie
 
 
 
-**National Electric Mobility Mission Plan 2020**
+#### **National Electric Mobility Mission Plan 2020**
 
 The Government of India published its **National Electric Mobility Mission Plan 2020** in 2013 with the goal of fast tracking the introduction and manufacture of electric as well as hybrid vehicles in the country. The aim is to have an average of 6-7 million EVs and Hybrid vehicles on sale by 2020. The NEMMP 2020 serves as a guide to all schemes, initiatives and policies for state governments around electric mobility. This Mission Plan stated the four factors that determine the intervention of the transportation sector in environmental degradation- vehicle efficiency, vehicle use, type of fuel used and infrastructure of the vehicle. All of this along with demand creation, research and development, supply incentives, EV infrastructure in the NEMMP 2020.
 
 Under the Phase-I of Faster Adoption and Manufacturing of Electric (and Hybrid) Vehicles (FAME-India), around 43 crores rupees were spent on around 500 charging stations/ infrastructure by the Department of Heavy Industries in some cities including Bengaluru, Jaipur, Chandigarh and NCR of Delhi. Under the Phase-II, about 500 crores were spent on 2636 charging stations across cities in all states and UTs. GST for EVs has been reduced from 12% to 5%. Custom duty exemption has been placed on those automobile parts that are used exclusively in EVs. There is also an income tax rebate of up to 1.5 lakh rupees on interest payable loans for EV purchases. However, if the prices of the vehicles remain high at the time of buying, none of the incentives might please an average buyer. For example, Hyundai Kona Electric costs nearly 23.75 lakhs. On the other hand Hyundai Venue S Turbo costs only around 9 – 10 lakhs. Even if EV owners are exempted from paying road taxes, it does not ensure that more buyers would go for EV as their purchasing power at the time of buying is not guaranteed to be high.
 
-\
+#### \
 **Transition to Electric Mobility in India**
 
 India aims to have only electric vehicles on road by 2030. The Niti Aayog has identified 3 elements that are crucial while implementing transformation in mobility:
@@ -51,7 +52,7 @@ However, this strategy does not take into account the impact of manufacturing (b
 
 
 
-**Behavioural Changes to Promote of Electric Mobility**
+#### **Behavioural Changes to Promote of Electric Mobility**
 
 In an academic review done by Rachana Vidhi and Prasanna Shrivatsava, they recommended policies that will be suitable to different socio economic groups relevant to the Indian market. For this reason, they made a division of two groups.
 
@@ -61,7 +62,7 @@ The second group consists of those who own four wheelers. They are comparatively
 
 
 
-**Present conditions in India**
+#### **Present conditions in India**
 
 In addition to this, while drawing EV policies, the governments must make sure to keep in mind the reality of the existing conditions in our country. There is no sufficient road infrastructure and although we have surplus energy there are frequent outages. When the number of EVs on road increases, the demand for electricity will also increase. Today, we have petrol and diesel easily available at pumping stations. For EVs, we do not have enough charging infrastructure yet. Speaking of charging infrastructure, another important subject of discussion is where do we get energy from to supply for charging stations? If the fuel mix is relying on fossil fuels, the whole point of EVs reducing the need for oil and gas will be vain. The fuel mix has to be inclined to renewable energy sources. Currently, only 25% of energy generated in India comes from renewable sources, i.e. wind and solar. The proposed strategy does not include a scenario where the energy generated from renewable sources will increase in the future. As of today, EV policy has not achieved as much success as it could have because of lack of awareness among consumers.
 
