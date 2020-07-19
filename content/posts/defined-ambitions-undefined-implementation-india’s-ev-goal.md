@@ -15,7 +15,7 @@ description: In contrast to the previous century where Internal Combustion
   Goals (SDGs), the entire transportation sector globally will have to
   transition to cleaner fuels. According to IEA, 24% of the cumulative direct
   CO2 emissions are from the transportation sector, of which, road
-  transportation alone accounts for about three quarters of transport emissions.
+  transportation alone accounts for about three-quarters of transport emissions.
 ---
 #### Introduction
 
@@ -89,4 +89,6 @@ Adding to this, we have not achieved as much as we could have in adopting EVs be
 
 
 
-**Written By -** Veena G
+**Authored  By -** [Veena G](mailto:vijayorton1@gmail.com), Volunteer, IYCN
+
+**Edited   By -** [](mailto:vijayorton1@gmail.com)[Zerin Osho](mailto:zerinoshoraina@gmail.com), Board Member, IYCN
