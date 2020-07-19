@@ -48,8 +48,6 @@ Another alternative is Hydrogen Fuel Cells. For a very long time, hydrogen has b
 
 Although electric vehicles themselves emit no toxic chemicals to the air, the manufacturing adds to greenhouse gases. The problem with Hydrogen Fuel is that even though it is available in abundance, it is awfully expensive. Its storage is very difficult, and it is highly inflammable. Many researchers are still finding a way to design storage tanks to store hydrogen safely.
 
-
-
 #### **Can Solar Cars Become a Reality in the Future**
 
 Solar cars might seem like the most concrete solution to emissions from transportation, but it is severely limited in its features. The conception of solar cars being commercialised for personal use in the future is very questionable.
@@ -60,21 +58,21 @@ Secondly, the initial investment to build solar panels would be very high and ev
 
 Solar cars are also limited in their design as more solar panels will have to be attached on the surface of the car to increase its efficiency. Solar cars are one of the greener sources of energy but it cannot be popular in the future because of these restrictions. It is necessary to change our means of transport to sustainable alternatives in order to decrease our dependence on fossil fuels and control the increasing levels of air pollution. For this, EVs are a more credible and reliable means of transport. Hydrogen fuels will be reliable too insofar as the ways to store hydrogen safely is figured out.
 
-
-
 #### References
 
 > Dr. Hao Wu, Geneviève Alberts et al, “New market. New entrants. New challenges. Battery Electric Vehicles”, Deloitte Publication 2019.
 >
->
 > Eric Forsta Thacher, A Solar Car Primer: a guide to Design and Construction of Solar-Powered Vehicles, p. no. vii, viii, ix, Springer International Publishing, Switzerland, 2015.
->
 >
 > Nathan Peraino, Ardeshir Faghri, Dian Yuan, Yifan Wang, Michael Vaughan, Mingxin Li. Feasibility of Powering All Vehicles with Electricity from Solar and Wind Energy. Journal of Energy and Natural Resources. Vol. 8, No. 4, 2019, pp. 127-136.
 >
+> \[https://www.theweek.co.uk/electric-cars/101196/hydrogen-fuel-cell-vs-battery-electric-cars-which-are-better](<> https://www.theweek.co.uk/electric-cars/101196/hydrogen-fuel-cell-vs-battery-electric-cars-which-are-better>), 7th April, 2020
 >
-> [https://www.theweek.co.uk/electric-cars/101196/hydrogen-fuel-cell-vs-battery-electric-cars-which-are-better](<> https://www.theweek.co.uk/electric-cars/101196/hydrogen-fuel-cell-vs-battery-electric-cars-which-are-better>), 7th April, 2020
->
->
-> [http://news.mit.edu/2016/electric-vehicles-make-dent-climate-change-0815](<> http://news.mit.edu/2016/electric-vehicles-make-dent-climate-change-0815>), 7th April, 2020
+> \[http://news.mit.edu/2016/electric-vehicles-make-dent-climate-change-0815](<> http://news.mit.edu/2016/electric-vehicles-make-dent-climate-change-0815>), 7th April, 2020
 > Marie Sofie Furu, Shreya Nagothu, “Scandinavian Investments in Renewable Energy in Developing Countries”, Multiconsult, 2018
+
+
+
+**Authored  By -** [Veena G](mailto:vijayorton1@gmail.com), Volunteer, IYCN
+
+**Edited   By -** [](mailto:vijayorton1@gmail.com)[Zerin Osho](mailto:zerinoshoraina@gmail.com), Board Member, IYCN
