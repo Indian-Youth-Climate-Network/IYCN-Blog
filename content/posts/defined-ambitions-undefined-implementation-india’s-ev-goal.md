@@ -1,6 +1,6 @@
 ---
 title: "Defined Ambitions, Undefined Implementation: India’s EV Goal"
-date: 2020-07-19T00:53:15.249Z
+date: 2020-07-19T19:36:40.194Z
 published: true
 tags:
   - Electric
@@ -25,15 +25,11 @@ Shifting to Electric Vehicles (EVs) can help to reduce our dependence on fossil 
 
 According to the 2019 Air Quality Index report, 21 out of 30 most polluted cities in the world are located in India. Various studies show that in order for India to meet the target of limiting the global temperature rise to well below 2°C set in the Paris Agreement, it would require to decarbonize the energy sector and electrify its transportation sector. During its lifetime, a vehicle contributes to pollution at different stages- production, usage, disposal, electricity generation and fuel production. The total emission of a vehicle over its lifetime depends on the make of the machine and the engine. Shifting to EVs can greatly reduce the emissions in stage 2, i.e. usage and, if the fuel mix is inclined to renewable energy, stage 5 i.e. electricity generation.
 
-
-
 #### **National Electric Mobility Mission Plan 2020**
 
 The Government of India published its National Electric Mobility Mission Plan 2020 in 2013 with the goal of fast tracking the introduction and manufacture of electric as well as hybrid vehicles in the country. The aim is to have an average of 6-7 million EVs and Hybrid vehicles on sale by 2020. The NEMMP 2020 serves as a guide to all schemes, initiatives and policies for state governments around electric mobility. This Mission Plan stated the four factors that determine the intervention of the transportation sector in environmental degradation- vehicle efficiency, vehicle use, type of fuel used and infrastructure of the vehicle. All of this along with demand creation, research and development, supply incentives, EV infrastructure in the NEMMP 2020.
 
 Under the Phase-I of Faster Adoption and Manufacturing of Electric (and Hybrid) Vehicles (FAME-India), around 43 crores rupees were spent on around 500 charging stations/ infrastructure by the Department of Heavy Industries in some cities including Bengaluru, Jaipur, Chandigarh and NCR of Delhi. Under the Phase-II, about 500 crores were spent on 2636 charging stations across cities in all states and UTs. GST for EVs has been reduced from 12% to 5%. Custom duty exemption has been placed on those automobile parts that are used exclusively in EVs. There is also an income tax rebate of up to 1.5 lakh rupees on interest payable loans for EV purchases. However, if the prices of the vehicles remain high at the time of buying, none of the incentives might please an average buyer. For example, Hyundai Kona Electric costs nearly 23.75 lakhs. On the other hand Hyundai Venue S Turbo costs only around 9 – 10 lakhs. Even if EV owners are exempted from paying road taxes, it does not ensure that more buyers would go for EV as their purchasing power at the time of buying is not guaranteed to be high.
-
-
 
 #### **Transition to Electric Mobility in India**
 
@@ -53,8 +49,6 @@ The two main challenges - mobility and electricity availability – are addresse
 
 However, this strategy does not take into account the impact of manufacturing (both vehicle and battery) on natural resources, impact on oil and gas industries and does not do much regarding behavioural change of the people in their mobility.
 
-
-
 #### Behavioural Changes to Promote of Electric Mobility
 
 In an academic review done by Rachana Vidhi and Prasanna Shrivatsava, they recommended policies that will be suitable to different socio economic groups relevant to the Indian market. For this reason, they made a division of two groups.
@@ -62,8 +56,6 @@ In an academic review done by Rachana Vidhi and Prasanna Shrivatsava, they recom
 The first group consists of two wheeler owners. According to a case study done by Embarq, a foundation that helps accelerate implementation of sustainable mobility to improve quality of life in cities, 81% of the two wheeler owners in Pune had relied on public transportation for their daily commute before purchasing a two wheeler. They shifted to two wheelers as it is more convenient than public transport. If these two wheeler owners who are sensitive to oil prices had a cheaper alternative provided to them, they would adopt it. As rightly pointed out in the Mission Plan, Indian consumers are highly value conscious and how they can afford goods play an important role in the consumer buying decisions. Therefore, in order to achieve 100% electric mobility, the government will have to provide generous monetary incentives to this group. Right now, smaller cars are purchased more because of the lower excise duties for smaller cars. This is one of the important points to keep in mind while pricing EVs.
 
 The second group consists of those who own four wheelers. They are comparatively less exposed to pollution than those who use public transport and two wheelers. Four wheelers take up 32% of the vehicles on road. Having ownership of a house and a car are symbols of success in our country. The better the car brand, the higher the stature. Car owners are less likely to shift to public transportation as it is less comfortable. By giving up their cars, they will be giving up a material that is considered a status symbol in the society. Therefore, in order to stimulate behavioural changes in this group with regards to mobility, it is necessary to not only give monetary incentives but also social incentives like acknowledgement of the shift in their usage to public transport in local media.
-
-
 
 #### Present conditions in India
 
@@ -74,3 +66,25 @@ Currently, the only type of batteries made to run EVs are lithium-ion batteries 
 Increase in EVs would mean increased demand for li-ion batteries. According to a 2019 BloombergNEF report, demand for lithium would double every five years reaching 1.6 million tons of lithium carbonate equivalent by 2030. While India has no supply chain on its own, China is dominating the global supply chain for lithium. India relies on lithium imports mostly from China to make battery cells and cathodes. China is also the world’s largest supplier of electric vehicles.
 
 Adding to this, we have not achieved as much as we could have in adopting EVs because of lack of awareness among consumers. All of this makes India’s adoption to EVs a lot slower than was expected.
+
+
+
+#### References 
+
+> Department of Heavy Industry, Govt. of India, “National Electric Mobility Mission Plan 2020”, 2013.
+>
+> EU-REI, “Towards Resource-Efficient Electric Vehicle Sector in India”, September 2018, 
+>
+> <https://www.iea.org/reports/tracking-transport-2019> (last visited on 1st July 2020).
+>
+> WEF in collaboration with Ola Mobility Institute, “EV-Ready India Part 1: Value Chain Analysis of State EV Policies”, October 2019.
+>
+> NITI Aayog, “Zero-Emission Vehicles (Zevs): Towards A Policy Framework”, September 2018, 
+>
+> <https://www.thehindu.com/news/national/karnataka/india-to-sell-only-electric-vehicles-by-2030-piyush-goyal/article19516175.ece> (last visited on 1st July 2020).
+>
+> Mishra A, Achieving Energy Security in Country: Insights Based on Consumption of Petroleum Products; Niti Aayog: New Delhi, India 2017.
+>
+> Embarq India, Motorized Two-Wheelers in Indian Cities: A Case Study the city of Pune, 2014.
+>
+> Rachana Vidhi and Peasanna Shrivastava, “A Review of Electric Vehicle Lifecycle Emissions and Policy Recommendations to Increase EV Penetration in India”, 2018.
