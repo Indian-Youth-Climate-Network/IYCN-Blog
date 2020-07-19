@@ -8,7 +8,7 @@ tags:
   - SDG
   - Solar
   - Electric Mobility
-cover_image: /images/uploads/screenshot-2020-07-19-at-6.23.05-am.png
+cover_image: /images/uploads/screenshot-2020-07-19-at-6.23.05-am.jpg
 description: In contrast to the previous century where Internal Combustion
   Engines (ICE) dominated the transport sector, the current age will be focused
   on electrifying transportation. In order to meet the Sustainable Development
