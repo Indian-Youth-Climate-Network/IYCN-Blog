@@ -47,3 +47,34 @@ There is another type of EV called the Plug-in electric vehicle which runs on ba
 Another alternative is Hydrogen Fuel Cells. For a very long time, hydrogen has been considered to replace hydrocarbon fuels. Hydrogen is abundant and many companies are trying to tap this chemical to be used as clean energy. Hydrogen can be obtained by hydrolysis of water using electricity. This electricity can be generated from solar panels or generators driven by wind turbines. Hydrogen fuel and fuel cell sectors have been making progress in China where it is expected that the number of hydrogen fuelling stations will exceed 10,000 by 2050. A whitepaper issued by the Chinese Government last year indicated that about 10% of the energy sector in the country is expected to be fuelled by hydrogen. At the G-20 forum last year, representatives from Tokyo, United States and European Union signed a joint statement declaring their intention to cooperate towards hydrogen and hydrogen fuel technologies. Currently, Japan and South Korea are leading in hydrogen fuel cell markets. The South Korean Government has set a target of having more than ten thousand fuel cell vehicles in the road by the end of 2020 while Toyota in Japan plans to increase its manufacture to 30,000 cars per year by the end of 2020.
 
 Although electric vehicles themselves emit no toxic chemicals to the air, the manufacturing adds to greenhouse gases. The problem with Hydrogen Fuel is that even though it is available in abundance, it is awfully expensive. Its storage is very difficult, and it is highly inflammable. Many researchers are still finding a way to design storage tanks to store hydrogen safely.
+
+
+
+#### **Can Solar Cars Become a Reality in the Future**
+
+Solar cars might seem like the most concrete solution to emissions from transportation, but it is severely limited in its features. The conception of solar cars being commercialised for personal use in the future is very questionable.
+
+Tesla CEO Elon Musk, on 2017 National Governors Association meeting said that, “The least efficient place to put solar is on the car.” Of all the energy solar panels absorb from the sun, only about 18% (maximum) of it is converted into electricity- which already is less efficient. To be able to generate more electricity, more panels must be built on the car. Solar energy cannot be collected during night and cloudy days (when even if collected, their efficiency would be way too low). The fact that it depends on daily weather is highly unpredictable makes solar powered cars unreliable. Electrical vehicles are generally more assuring than solar powered cars because the weather can be unpredictable. Solar cars cannot be parked in closed parking lots. They must be parked in open spaces to collect solar energy and store it in their batteries.
+
+Secondly, the initial investment to build solar panels would be very high and even though solar panels themselves do not release toxic emissions, the manufacturing involved in its making would add to the pollution. In addition to it, solar cars do not run at the same speed as EVs or cars with ICE. They also cannot be run for unlimited distance. If any part of the car needs replacement, it will be expensive as these products are not manufactured in large numbers.
+
+Solar cars are also limited in their design as more solar panels will have to be attached on the surface of the car to increase its efficiency. Solar cars are one of the greener sources of energy but it cannot be popular in the future because of these restrictions. It is necessary to change our means of transport to sustainable alternatives in order to decrease our dependence on fossil fuels and control the increasing levels of air pollution. For this, EVs are a more credible and reliable means of transport. Hydrogen fuels will be reliable too insofar as the ways to store hydrogen safely is figured out.
+
+
+
+#### References
+
+> Dr. Hao Wu, Geneviève Alberts et al, “New market. New entrants. New challenges. Battery Electric Vehicles”, Deloitte Publication 2019.
+>
+>
+> Eric Forsta Thacher, A Solar Car Primer: a guide to Design and Construction of Solar-Powered Vehicles, p. no. vii, viii, ix, Springer International Publishing, Switzerland, 2015.
+>
+>
+> Nathan Peraino, Ardeshir Faghri, Dian Yuan, Yifan Wang, Michael Vaughan, Mingxin Li. Feasibility of Powering All Vehicles with Electricity from Solar and Wind Energy. Journal of Energy and Natural Resources. Vol. 8, No. 4, 2019, pp. 127-136.
+>
+>
+> [https://www.theweek.co.uk/electric-cars/101196/hydrogen-fuel-cell-vs-battery-electric-cars-which-are-better](<> https://www.theweek.co.uk/electric-cars/101196/hydrogen-fuel-cell-vs-battery-electric-cars-which-are-better>), 7th April, 2020
+>
+>
+> [http://news.mit.edu/2016/electric-vehicles-make-dent-climate-change-0815](<> http://news.mit.edu/2016/electric-vehicles-make-dent-climate-change-0815>), 7th April, 2020
+> Marie Sofie Furu, Shreya Nagothu, “Scandinavian Investments in Renewable Energy in Developing Countries”, Multiconsult, 2018
