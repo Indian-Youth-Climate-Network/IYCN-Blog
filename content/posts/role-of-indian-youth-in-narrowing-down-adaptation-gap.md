@@ -29,29 +29,28 @@ India has one of the youngest populations in the world, who has a huge responsib
 
 **\[Opportunities]** There are multiple ways youth can get involved to help towards narrowing down the adaptation gap and boost resilience to climate change. The following list of suggestions is by no means exhaustive.
 
-1.  By promoting Nature Based Solutions
+1. By designing climate change adaptation initiatives at the local level and scale them
 
-2. By designing climate change adaptation initiatives at the local level and scale them
+2. By launching targeted information campaigns and educational programs  to spread awareness
 
-3. By launching targeted information campaigns and educational programs  to spread awareness
+3. By learning about the adaptation action plan of your city/state.
 
-4. By learning about the adaptation action plan of your city/state.
+4. By developing tools and technologies that contribute to adaptation initiatives.
 
-5. By developing tools and technologies that contribute to adaptation initiatives.
+5. By participating in UNFCCC negotiation process 
 
-6. By participating in UNFCCC negotiation process 
+6. By pursuing social entrepreneurship in the field of climate change adaptation
 
-7. By pursuing social entrepreneurship in the field of climate change adaptation
+7. By promoting Nature Based Solutions
 
-**Support. Unite. Share. Engage. Inspire. Change**
+**Support. Unite. Share. Engage. Inspire. Change**\
+\
+**IYCN Membership  Form**: [https://bit.ly/3CXoGQu](https://t.co/jN8KPxRYNS?amp=1)\
+\
+**Author: [Ashish Pahwa](https://twitter.com/ashishpahwa7)**, [Indian Youth Climate Network](https://iycn.in)
 
 References
 
 1. <https://openknowledge.worldbank.org/handle/10986/35203>
-
 2. <https://irade.org/JP_Urban_India_2011%20_Jul%20-%20Dec.pdf>
-
-3. <https://www.adaptation-fund.org/>\
-\
-**IYCN Membership  Form**: [https://bit.ly/3CXoGQu](https://t.co/jN8KPxRYNS?amp=1)\
-**Author: [Ashish Pahwa](https://twitter.com/ashishpahwa7)**
+3. <https://www.adaptation-fund.org/>
