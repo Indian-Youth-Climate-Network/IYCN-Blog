@@ -92,7 +92,8 @@ o   Supplement - an appendix to the credit class or approved methodology that c
 
 - - -
 
-\[1]  <https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf>\
-\
-\
+\[1]  <https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf>
+
+
+
 Authored by: [Bo Kofod](https://www.linkedin.com/in/bo-sprotte), [Indian Youth Climate Network](https://iycn.in) | Head of Carbon Engineering and Remote Sensing, [EarthBanc](https://earthbanc.io/)
