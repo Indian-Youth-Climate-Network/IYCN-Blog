@@ -20,6 +20,10 @@ description: >-
 
   This article focuses on the general workings of carbon markets in relation to small-hold farmers access. The article seeks to provide an overview of the present opportunity and challenges to small-hold farmers in the agriculture and food-production sector. Therefore, the initiatives are primarily mentioned in relation to LULUCF (Land Use, Land Use Change and Forestry).
 ---
+“We all have a role to play in the fight against climate change. Your actions, however small, can have a profound impact when combined with thousands of others.”
+
+This article focuses on the general workings of carbon markets in relation to small-hold farmers access. The article seeks to provide an overview of the present opportunity and challenges to small-hold farmers in the agriculture and food-production sector. Therefore, the initiatives are primarily mentioned in relation to LULUCF (Land Use, Land Use Change and Forestry).
+
 **Agriculture and Climate Change**
 
 Climate change is increasingly impacting global agriculture. Simultaneously, agriculture is the focus of many debates – whether agricultural food systems are victims or contributors to climate change. Smallholder farmers manage about 75 percent of the world’s agricultural land and are heavily impacted by climate change. Agriculture is responsible for 20-30 percent of the GHG emissions globally. On the other hand, agriculture is more and more becoming part of the solution to reduce emissions and mitigate climate change ([29 June 2021, solidaridadnetwork](https://www.solidaridadnetwork.org/news/solidaridad-and-rabobank-make-carbon-markets-work-for-smallholder-farmers/))
