@@ -4,8 +4,8 @@ title: Carbon Accounting and Land Use Change –  Challenges, Opportunity, and a
 date: 2021-10-18T17:01:31.593Z
 published: true
 tags:
+  - iycn
   - carbonAccounting
-  - IndianYouthClimateNetwork
   - Agriculture
   - CarbonMarkets
   - COP26
@@ -92,8 +92,6 @@ o   Supplement - an appendix to the credit class or approved methodology that c
 
 - - -
 
-\[1]  <https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf>
-
-
+\[1]  [https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf](https://blog.iycn.in/role-of-indian-youth-in-narrowing-down-adaptation-gap/)
 
 Authored by: [Bo Kofod](https://www.linkedin.com/in/bo-sprotte), [Indian Youth Climate Network](https://iycn.in) | Head of Carbon Engineering and Remote Sensing, [EarthBanc](https://earthbanc.io/)
