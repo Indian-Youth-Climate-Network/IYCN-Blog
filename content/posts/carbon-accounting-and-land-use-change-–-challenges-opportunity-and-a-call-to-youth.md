@@ -42,11 +42,7 @@ A project providing emission reductions tend to follow a nationally recognised s
 
 To guarantee the trustworthiness of a project it’s recommended by the Gold Standard that emission reductions must be:
 
-
-
 ![Table](/images/uploads/table.png "Source: Gold Standard (2020) “Guide – Carbon offsetting”")
-
-
 
 **Small-Scale Farmers Access to Carbon Markets**
 
@@ -55,8 +51,6 @@ Though most nationally recognised standards agree on these measurements – they
 Project developers have been experimenting with projects that engage smallholder farmers in land-based carbon sequestration, while providing equitable livelihood benefits for farming communities. However, these projects face challenges in their management complexity and the costs of project development ([Shames S. 2013, CGIAR](https://cgspace.cgiar.org/handle/10568/29009)).
 
 Smallholder farmers have not yet benefited from the carbon market at scale. This is mainly due to the high transition costs needed to generate a tradable, unique, and independently verifiable carbon offset. In addition, the market has historically offered low prices for carbon offsetting assets. However, the market is changing dramatically in recent years, due to an increase of net zero emissions of leading global companies such as Google, Microsoft and Nestlé. This offers opportunity for the agriculture and food-processing sectors to create a win-win situation, especially for Tier 3 suppliers such as small-hold farmers. 
-
- 
 
 **Scalability within small-hold farmers**
 
@@ -96,8 +90,9 @@ o   Verifier – an individual or organization that via a contract, is set to e
 
 o   Supplement - an appendix to the credit class or approved methodology that contains requirements related to a specific geographic area or a specific case.
 
-
-
 - - -
 
-\[1]  <https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf>
+\[1]  <https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf>\
+\
+\
+Authored by: [Bo Kofod](https://www.linkedin.com/in/bo-sprotte), [Indian Youth Climate Network](https://iycn.in) | Head of Carbon Engineering and Remote Sensing, [EarthBanc](https://earthbanc.io/)
